@@ -1,7 +1,7 @@
 # hi-lo
 <sup>*Built with Rust (2024 edition)*</sup>
 
-Simple CLI card game where A is the lowest (1) and King is the highest (13).
+Simple CLI card game where Ace is the lowest (1) and King is the highest (13).
 An initial card is dealt, and the player guesses if the next card drawn is
 higher or lower than the previous. Guess correctly 4 times to win!
 
